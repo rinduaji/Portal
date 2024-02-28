@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="4" Name="Page-1" NameU="Page-1">
+			<Layer IX="0">
+				<Name>Building Envelope</Name>
+				<NameUniv>Building Envelope</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="1">
+				<Name>Wall</Name>
+				<NameUniv>Wall</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="2">
+				<Name>Door</Name>
+				<NameUniv>Door</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="3">
+				<Name>Space</Name>
+				<NameUniv>Space</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="4">
+				<Name>Movable Furnishings</Name>
+				<NameUniv>Movable Furnishings</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="5">
+				<Name>Furniture</Name>
+				<NameUniv>Furniture</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="6">
+				<Name>Non-Movable Furnishings</Name>
+				<NameUniv>Non-Movable Furnishings</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="7">
+				<Name>Equipment</Name>
+				<NameUniv>Equipment</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="8">
+				<Name>Computer</Name>
+				<NameUniv>Computer</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Value Unit="STR">25 mm</Value>
+			<Label>Minimum Panel Width</Label>
+			<Shapes>
+				<Shape ID="1" UniqueID="{892F5ABA-D6AD-45AC-A804-F3BB3093F5B7}" Name="Sheet.1" NameU="Sheet.1">
+					<XForm>
+						<PinX Unit="MM">146.340838254593140</PinX>
+						<PinY Unit="MM">103.322895448879710</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
